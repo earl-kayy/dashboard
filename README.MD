@@ -36,4 +36,3 @@ In the **Upload** and **Record** section, you can manually choose the specific o
 Also after augmentation is processed, you can see how it has changed by **Waveform** and **Spectrogram**. 
 ![alt text](./image/image-6.png)
 
-## YO
