@@ -1,0 +1,34 @@
+category,explanation
+KlecSpeech,한국어 강의 음성
+KconfSpeech,회의 음성
+KsponSpeech,한국어 음성
+CommandSpeech,명령어 음성
+FreeConvSpeech,자유대화 음성
+KforeignSpeech,한국어 외래어 발화
+SpeakerSpeech,화자 인식용 음성 데이터
+MultiSpeakerSynthesis,다화자 음성합성 데이터
+KconvSpeech,한국인 대화음성
+CarConvCommand,차량 내 대화 및 명령어
+WelfareCallCenter,복지 분야 콜센터 상담데이터
+NumPatternSpeech,숫자가 포함된 패턴 발화 데이터
+KresSpeech,고객 응대 음성
+KtelSpeech,상담 음성
+LiterarySpeech,문학작품 낭송.낭독 음성 데이터
+LowQualityTelephone,저음질 전화망 음성인식 데이터
+DialectSpeech,한국어 방언 발화
+KoreanEnglishChinese,한-영 및 한-중 음성발화 데이터
+NoisySpeech,소음 환경 음성인식 데이터
+ForeignerSpeech,외국인 한국어 발화 음성 데이터
+ChildSpeech,한국어 아동 음성 데이터
+KoreanEnglishHybrid,한영 혼합 인식 데이터
+TelehealthSpeech,비대면 진료를 위한 의료진 및 환자
+VCTK,다양한 영어 억양의 화자 음성 데이터
+common-voice-en,다화자 다문장 낭독 음성 데이터
+LibriSpeech,오디오북 발췌 음성 데이터
+KaggleMediSpeech,의료 환경 수집 음성 데이터
+GigaSpeech,영어 음성 대규모 데이터셋
+peoples_speech,다양한 화자/상황 수집된 음성 데이터
+NSC,영어 뉴스 방송
+NSC_additional,영어 뉴스 방송
+TEDLIUM_release-3,TED 강연 오디오
+VoxPopuli,유럽 의회 회의록
