@@ -1,7 +1,9 @@
 # Dashboard for visualization & augmentation
 
 ## Intro
-This Dashboard aims to visualize the status and contents of the data in possesion using **Streamlit** framework and transform the audio data by **audiomentations** library. To leverage the strengths of Streamlit, the project maximizes **User Interactivity**.
+- The dashboard aims to visualize the status and contents of the data in possesion and manipulate audio data.
+- **Streamlit** framework; Maximizes **User Interactivitiy**
+- **Note:** Dashboard was originally developed during my internship at [PuzzleAI](https://puzzle-ai.com/). Due to confidentiality reasons, this repository provides a recreated version that demonstrates similar concepts and functionalities.
 
 ## Webpage
 [Dashboard web page](https://db-dashboard.streamlit.app/)
