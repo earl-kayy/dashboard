@@ -6,7 +6,7 @@
 - **Note:** Dashboard was originally developed during my internship at [PuzzleAI](https://puzzle-ai.com/). Due to confidentiality reasons, this repository provides a recreated version that demonstrates similar concepts and functionalities.
 
 ## Webpage
-[Dashboard web page](https://db-dashboard.streamlit.app/)
+[Dashboard web page](https://dashboard-dmo.streamlit.app/)
 
 ## Usage
 ```bash
